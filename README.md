@@ -1,7 +1,6 @@
 # 🛡️ ThreatShield AI Suite – Unified Cyber Threat Detection System
 
-ThreatShield AI is an intelligent cybersecurity platform designed to detect phishing and malicious content across multiple formats including **Emails, URLs, SMS, and Images**.  
-
+ThreatShield AI is an intelligent cybersecurity platform designed to detect phishing and malicious content across multiple formats including **Emails, 
 Powered by **Machine Learning** and **Natural Language Processing (NLP)**, it provides real-time threat analysis to help users stay protected from evolving cyber attacks.
 
 ## 🎯 Project Motivation
@@ -125,7 +124,7 @@ http://127.0.0.1:5000/
 
 ## 📊 Model Details
 
-- Algorithm: Logistic Regression / Naive Bayes  
+- Algorithm: Random Forest, SVM , XGBoost
 - Feature Extraction: TF-IDF  
 - Accuracy: ~95% (dataset dependent)  
 
